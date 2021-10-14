@@ -1,0 +1,4 @@
+build/*
+node_modules
+.env
+create_executables_win64.bat
